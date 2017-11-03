@@ -6,7 +6,7 @@ def speak_to_grandma(word)
     response = "I LOVE YOU TOO PUMPKIN!"
     response
 
-elsif word== word.uppercase
+elsif word== word.upcase
   response = "NO, NOT SINCE 1938!"
   response
 else
