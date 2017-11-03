@@ -6,9 +6,14 @@ def speak_to_grandma(word)
     response = "I LOVE YOU TOO PUMPKIN!"
     response
   end
-
+elsif word== word.uppercase
+  response = "NO, NOT SINCE 1938!"
+  response
+  end
+else
+  response = "HUH?! SPEAK UP, SONNY!"
+  response
 end
-
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
