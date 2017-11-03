@@ -5,7 +5,7 @@ def speak_to_grandma(word)
   if word == "I LOVE YOU GRANDMA!"
     response = "I LOVE YOU TOO PUMPKIN!"
     response
-  
+
 elsif word== word.uppercase
   response = "NO, NOT SINCE 1938!"
   response
@@ -13,7 +13,7 @@ else
   response = "HUH?! SPEAK UP, SONNY!"
   response
 end
-
+end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
