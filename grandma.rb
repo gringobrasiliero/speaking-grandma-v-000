@@ -4,7 +4,7 @@ def speak_to_grandma(word)
 
   if word = "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
-    END
+  end
 
 end
 
